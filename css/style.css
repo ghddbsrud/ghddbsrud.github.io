@@ -74,10 +74,10 @@ a {
 
 .bordered{
 	position: absolute;
-	top: 70%;
+	top: 40%;
 	left: 1%;
 	border: solid #fecc30 3px;
-	font-size: 30px;
+	font-size: 20px;
 }
 .hyperlink1{
 	position: absolute;
